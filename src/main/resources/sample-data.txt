@@ -1,0 +1,16 @@
+Leverage a Generative AI API to automate and enhance the process of data scraping, comparison, and quality assessment for product information, ultimately improving the accuracy and completeness of our product data within our Master Data Management system. Need API access to Generative AI service for the development of a custom, internal workflow. This access will be confined to a secure, controlled environment to ensure compliance with all company data governance policies. 
+
+can you please provide the conmplete codebase for this given result which is not done previously 
+
+I need to build an AI Judge LLM Agent to compare MDM data with retailers, assess, and suggest corrections. While you guys are focusing on the Judge Agent 
+
+Using Java Spring Boot Maven with OpenAI GPT-4 (LLM agent), can you please provide me a complete codebase with a proper structure format
+
+
+-------------------------------------------
+
+Leverage a Generative AI API to automate and enhance the process of data scraping, comparison, and quality assessment for product information, ultimately improving the accuracy and completeness of our product data within our Master Data Management system. Need API access to Generative AI service for the development of a custom, internal workflow. This access will be confined to a secure, controlled environment to ensure compliance with all company data governance policies. 
+
+can you please provide the complete codebase for this given result, which is not done previously 
+
+I need to build an Azure OpenAI AI Judge LLM Agent using spring-boot to compare MDM data with retailers, assess, and suggest corrections. While you guys are focusing on the Judge Agent Using Java Spring Boot Maven with Azure OpenAI (LLM agent), can you please provide me a complete codebase with a proper structure format
